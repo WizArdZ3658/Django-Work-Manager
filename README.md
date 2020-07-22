@@ -36,8 +36,8 @@ Django, React, Redux, Axios, Redux Thunk, React Router, ReactDOM, React Alert, R
 
 ##### Databases:-
 
-SQLite(for development), Postgresql(for production)
+SQLite(for development)
 
 ##### Environment:-
 
-Windows(my PC), Linux(Deployment server)
+Windows(my PC)
